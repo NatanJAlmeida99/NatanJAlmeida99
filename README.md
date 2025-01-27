@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Natan Almeida from Aracaju 🇧🇷<br><br>- 🔭  I’m working as a frontend developer<br>- 📚 I'm currently learning React.js, TypeScript and Node.js to expand my skills in development</p>
+<p align="left">I'm Natan Almeida from Aracaju 🇧🇷<br><br>- 🔭  I’m working as a backend developer<br>- 📚 I'm currently learning React.js, TypeScript and Node.js to expand my skills in development</p>
 
 ###
 
@@ -44,10 +44,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"/>
-  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
