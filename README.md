@@ -37,8 +37,4 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/NatanJAlmeida99/NatanJAlmeida99/output/snake.svg" alt="Snake animation" />
-
 ###
