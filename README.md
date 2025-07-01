@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Natan Almeida and I'm a full stack developer, from Aracaju Sergipe</h2>
+<h2 align="left">Hi 👋! My name is Natan Almeida and I'm a data analyst, from Aracaju Sergipe</h2>
 
 ###
 
